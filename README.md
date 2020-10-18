@@ -1,8 +1,8 @@
 # Conda environment with environment.yml
 
 Jupyter Notebook: [![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/pkbhavani/conda/master?filepath=notebooks/index.ipynb)
-
-Jupyter Lab: [![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/pkbhavani/conda/master??urlpath=lab/tree/notebooks)
+Jupyter Lab: [![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/pkbhavani/conda/master?urlpath=lab/tree/notebooks)
+Jupyter Lab: [![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/pkbhavani/conda/master?tree)
 
 A Binder-compatible repo with an `environment.yml` file.
 
@@ -10,6 +10,7 @@ Access this Binder by clicking the blue badge above or at the following URL:
 
 http://mybinder.org/v2/gh/pkbhavani/conda/master?filepath=index.ipynb
 http://mybinder.org/v2/gh/pkbhavani/conda/master?urlpath=lab/tree/notebooks
+http://mybinder.org/v2/gh/pkbhavani/conda/master/tree
 
 ## Notes
 The `environment.yml` file should list all Python libraries on which your notebooks
