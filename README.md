@@ -1,8 +1,8 @@
 # Conda environment with environment.yml
 
 Jupyter Notebook: [![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/pkbhavani/conda/master?filepath=notebooks/index.ipynb)<br>
-Jupyter Lab: [![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/pkbhavani/conda/master?urlpath=lab/tree/notebooks)<br>
-Jupyter Lab: [![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/pkbhavani/conda/master?tree)
+Jupyter Lab:      [![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/pkbhavani/conda/master?urlpath=lab/tree/notebooks)<br>
+Jupyter Tree:     [![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/pkbhavani/conda/master?tree)
 
 A Binder-compatible repo with an `environment.yml` file.
 
